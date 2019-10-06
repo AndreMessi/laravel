@@ -6,6 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## Reasons why Laravel web development is the Best PHP Framework?
+PHP has been known as the popular server scripting language around the world in the companies that develop Softwares. Numerous revolutions have passed to reach where we are today in the world of PHP as web developing language.
+
+Currently, developers are expected to create websites and web apps that are complex, and this takes much time to start from the beginning.
+
+Because of this dire need, a more natural structured way of development is required. PHP frameworks made the solution for this to programmers. Laravel web development possesses a large ecosystem that has instant hosting as well as the deployment system.Here are some of the features that make it the best PHP platform:
 
 ## About Laravel
 
